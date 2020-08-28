@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+https://diagnosa.github.com/resume
+
+
+
 <!--
 **diagnosa/diagnosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
