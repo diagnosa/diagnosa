@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://diagnosa.github.io/resume
+https://diagnosa.github.io
 
 - 😄 Pronouns: she/her
 
